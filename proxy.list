@@ -1,0 +1,11 @@
+# 这里写一些 需要代理的规则
+# 示例
+# DOMAIN,apple.comscoreresearch.com
+# DOMAIN-SUFFIX,aaplimg.com
+# IP-CIDR,17.0.0.0/8,no-resolve
+
+DOMAIN-KEYWORD,miaolianyun
+DOMAIN-SUFFIX,id9.cc
+DOMAIN-SUFFIX,xeton.dev
+DOMAIN-SUFFIX,dler.io
+DOMAIN-SUFFIX,v1.mk
